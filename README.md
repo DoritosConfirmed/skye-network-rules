@@ -84,3 +84,9 @@ United Kingdom: 116 123
 
 ★@Events
 
+# Official Links
+
+[SKYE Network Official Wiki](https://skye-org-network.fandom.com/wiki/SKYE_ORG_Network_Wiki)
+
+[SKYE Network Official Community Discord Server](https://discord.gg/Cx2sk6H)
+
