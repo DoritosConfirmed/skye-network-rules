@@ -38,7 +38,7 @@ United Kingdom: 116 123
 
 # Server Roles
 
-**Main Roles:**
+**MAIN ROLES:**
 
 ★@Bureaucrat - Server Owner & SKYE Network Owner
 
