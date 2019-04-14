@@ -46,7 +46,7 @@ United Kingdom: 116 123
 
 ✔️ 4. Only assign a viewing lounge role if you’re currently not playing the game. Players who assign themselves the viewing lounge role will be removed from their game with a cheating strike. This offense will not only be blasted onto our cheaters list, but you’ll also be added to the blacklist players and will not be able to return playing any future SKYE games
 
-✔️ 5. SKYE Netorok holds individuality as one of our core values. We’re always looking for new and creative ways to bring enjoyment to Online Reality Games. We’re always happy to expand our Host and Artist teams, if you’re interested in hosting for SKYE or making seasonal art, the applications can be found on the wiki listed under “Current Applications”
+✔️ 5. SKYE Network holds individuality as one of our core values. We’re always looking for new and creative ways to bring enjoyment to Online Reality Games. We’re always happy to expand our Host and Artist teams, if you’re interested in hosting for SKYE or making seasonal art, the applications can be found on the wiki listed under “Current Applications”
 
 ✔️ 6. Joining the SKYE Team means you’ll get server roles to embrace your new position in our growing community. Rep the SKYE Host, SKYE Staff, SKYE Dev, or SKYE Artist roles as well as be added to our Wiki staff page! (Pst you also get a custom manga repping SKYE Network merch) 
 
